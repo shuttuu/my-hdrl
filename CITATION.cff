@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the SAMP-HDRL paper."
+title: "SAMP-HDRL: Segmented Allocation with Momentum-Adjusted Utility for Multi-agent Portfolio Management via Hierarchical Deep Reinforcement Learning"
+type: software
+authors:
+  - family-names: Ren
+    given-names: Xiaotian
+  - family-names: Abudurexiti
+    given-names: Nuerxiati
+  - family-names: Jiang
+    given-names: Zhengyong
+  - family-names: Stefanidis
+    given-names: Angelos
+  - family-names: Liu
+    given-names: Hongbin
+  - family-names: Su
+    given-names: Jionglong
+repository-code: "https://github.com/shuttuu/my-hdrl"
+license: MIT
+date-released: 2026-09-20
